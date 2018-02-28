@@ -1,2 +1,0 @@
-model: GBM
-mu and sigma were calibrated and used as they were.

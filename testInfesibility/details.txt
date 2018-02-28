@@ -1,0 +1,5 @@
+when we apply the marginal requirement, errors (infesibility) occur.
+We want to test if the problem comes from the illiquidity of the options that we have shorted.
+-UtilityMaximizationSolverGeometric
+	I commented line 101 in order to use all options
+- the dimension should be nq+1+nq/2
